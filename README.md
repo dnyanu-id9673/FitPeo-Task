@@ -81,4 +81,4 @@ src/
 ## 
  Credits- Icons: [Lucide Icons](https://lucide.dev/) / [Font Awesome](https://fontawesome.com/)- Illustrations: Free open-source SVGs or placeholders- Fonts: Match close to design via CSS fallback or Google Fonts
 
- ![alt text](<Resoinsive with laptop-1.png>) ![alt text](<Responsivewith mobile-1.png>)
+ ![alt text](<Resoinsive with laptop-1.png>) ![alt text](<Responsivewith mobile-1.png>)![alt text](<Resoinsive with laptop.png>) ![alt text](<Responsivewith mobile.png>)
